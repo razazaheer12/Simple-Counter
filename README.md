@@ -61,4 +61,6 @@ The build output will be in the `dist` folder.
 This project is licensed under the MIT License.
 Feel free to contribute or open issues for improvements!
 
+👨‍💻 Author Developed by Raza Zaheer GitHub: @razazaheer12
+
 
