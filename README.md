@@ -40,7 +40,7 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:3000` (or the port shown in the terminal) to see the app in action.
 
-🏗️ Build for Production:
+# Build for Production 🏗️
 
 To build the project for production:
 
