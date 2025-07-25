@@ -1,4 +1,4 @@
-#Simple Counter App 🌟
+# Simple Counter App 🌟
   
 Simple Counter is a lightweight React application built with Vite that allows users to increment, decrement, and reset a counter value. It serves as a practical example of using React hooks and Vite's fast development environment to build interactive web applications.
 
@@ -16,7 +16,7 @@ Simple Counter is a lightweight React application built with Vite that allows us
 <img width="615" height="494" alt="OUTPUT 2" src="https://github.com/user-attachments/assets/3d712602-151d-4978-bd8a-895d034cbcd6" />
 
 
-# Installation 📦
+## Installation 📦
 
 1. Clone the repository:
 
