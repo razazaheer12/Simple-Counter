@@ -5,7 +5,7 @@ Simple Counter is a lightweight React application built with Vite that allows us
 <img width="643" height="500" alt="output 1" src="https://github.com/user-attachments/assets/918f00d6-97a2-481e-98b7-b4bb0550c0e1" />
 
 
-# Features 🚀
+## Features 🚀
 
 ➕ Increment the counter
 ➖ Decrement the counter
@@ -40,7 +40,7 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:3000` (or the port shown in the terminal) to see the app in action.
 
-# Build for Production 🏗️
+## Build for Production 🏗️
 
 To build the project for production:
 
@@ -50,18 +50,18 @@ npm run build
 
 The build output will be in the `dist` folder.
 
-# Technologies Used 🛠️
+## Technologies Used 🛠️
 
 ⚛️ React
 ⚡ Vite
 💻 JavaScript (JSX)
 🎨 CSS
 
-# License 📄
+## License 📄
 This project is licensed under the MIT License.
 Feel free to contribute or open issues for improvements!
 
-# Author 👨‍💻
+#3 Author 👨‍💻
 Developed by Raza Zaheer GitHub: @razazaheer12
 
 
